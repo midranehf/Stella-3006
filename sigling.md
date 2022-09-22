@@ -1,3 +1,4 @@
+[Til baka á aðalsíðu](README.md)
 ## Sigling
 
 ### Siglt úr stæði
