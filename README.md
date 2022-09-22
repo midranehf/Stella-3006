@@ -1,6 +1,7 @@
 # Leiðbeiningar og góð ráð
 
 ## Gátlistar
+[Brottför](gatlisti-ut.md)
 
 ### Fyrir brottför
 - Kveikja á talstöð. Það kveikir einnig á AIS. Stöð á að hlusta á rás 16.
