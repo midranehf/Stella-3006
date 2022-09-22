@@ -46,3 +46,6 @@ Ef siglt er út úr kvínni við Hörpu með sterkan hliðarvind úr vestri þá
 
 ### Klósett
 Klóakið fer í tank og því í lagi að nota það í höfn en það þarf að losa tankinn reglulega. Tankinn má losa þegar skútan er utan við eyjar. Það er fótstig í skápnum við hliðina á klósettinu og er pumpað með því úr tanknum.
+
+# Viðhald á þessari handbók
+Þessi handbók er uppsett sem GitHub repository sem Georg heldur utan um og notast við Pages. Efni er skrifað með MarkDown https://www.markdownguide.org/cheat-sheet/. Þeir sem vilja taka þátt í að viðhalda handbókinni þurfa að hafa GitHub Account og senda kennið til Georgs sem bætir því við sem Collaborator.
