@@ -2,7 +2,7 @@
 
 **Efni**
 
-1. [Dekkið og segl](README.md#Dekkið og segl)
+1. [Dekkið og segl](README.md#Dekkið-og-segl)
 2. [Vélin](README.md#Vélin)
 3. [Sigling](README.md#Sigling)
 4. [Siglingatæki](README.md#Siglingatæki)
