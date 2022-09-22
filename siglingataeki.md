@@ -1,6 +1,6 @@
-# Siglingatæki
-## Plotter
+## Siglingatæki
+### Plotter
 
-## Vindex
+### Vindex
 
-## Talstöð
+### Talstöð
