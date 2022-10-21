@@ -19,4 +19,4 @@
 - 2022-09-20: Þinglýsingu lokið
 
 ## Viðhald á þessari handbók
-Þessi handbók er uppsett sem GitHub repository https://github.com/midranehf/Stella-3006 sem Georg heldur utan um og notast við Pages. Efni er skrifað með [MarkDown](https://www.markdownguide.org/cheat-sheet/). Þeir sem vilja taka þátt í að viðhalda handbókinni þurfa að hafa GitHub Account og senda kennið til Georgs sem bætir því við sem Collaborator.
+Þessi handbók er uppsett sem GitHub repository https://github.com/midranehf/Stella-3006 sem Georg heldur utan um og notast við Pages. Efni er skrifað með [MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Þeir sem vilja taka þátt í að viðhalda handbókinni þurfa að hafa GitHub Account og senda kennið til Georgs sem bætir því við sem Collaborator.
