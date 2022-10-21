@@ -1,6 +1,7 @@
 [Til baka á aðalsíðu](README.md)
 ## Dekkið og segl
 ### Landfestar
+#### Í Reykjavík við Hörpu
 Landfestar eru 6. Tvær við skut, tvær við stefni og 2 leiðarar sem fara frá stefni og aftur fyrir skut. Festa skal allar 6. Hlutverk leiðarann er að koma í veg fyrir að skútan færist aftur í stæðinu og reki skutinn í flotbryggjuna.
 
 ### Hífing segla
