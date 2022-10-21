@@ -10,3 +10,5 @@ Landfestar eru 6. Tvær við skut, tvær við stefni og 2 leiðarar sem fara fr�
 Ef bóman hallar niður að aftan þá getur verið erfitt að ná strekkingu við mastrið. Einfaldast er að einhver lyfti undir bómuna á meðan híft er í topp.
 
 Þegar rúlluseglið er tekið út er gott að halda við línuna til að hún fari þétt inn á rúlluna. Annars getur hún verið flækt þegar rúlla á seglinu inn.
+## Ýmis mál
+
