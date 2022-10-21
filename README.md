@@ -13,6 +13,8 @@
 - [Koma](gatlisti-inn.md)
 
 ## Dagbók
+- 2022-10-20: Flutt yfir í Hafnarfjarðarhöfn
+- 2022-10-06: Skráningu í skipaskrá lokið
 - 2022-09-22: Sett upp handbókarsíða
 - 2022-09-20: Þinglýsingu lokið
 
