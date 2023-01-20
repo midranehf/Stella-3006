@@ -1,5 +1,5 @@
 [Til baka á aðalsíðu](README.md)
-# Við brottför
+# Við komu
 - Slökkva á talstöð.
 - Tengja landrafmagn og hitablásara.
 - Ganga frá böndum.
