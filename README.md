@@ -13,6 +13,7 @@
 - [Koma](gatlisti-inn.md)
 
 ## Dagbók
+- 2023-02-08: Nýtt framsegl komið um borð
 - 2022-10-20: Flutt yfir í Hafnarfjarðarhöfn
 - 2022-10-06: Skráningu í skipaskrá lokið
 - 2022-09-22: Sett upp handbókarsíða
