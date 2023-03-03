@@ -1,8 +1,21 @@
 [Til baka á aðalsíðu](README.md)
 # Við komu
+- Segla felld áður en lagst er við bryggju
+- Belgir settir út
+- Áhöfn tilbúin að fara upp á bryggju
+- Skipi bakkað í stæði 
+- Binda skipið,  bregða lykkjum landfesta á polla skipsins.  Ekki þarf að binda nýja hnúta
+- Slökkva á vél og setja gula lykilinn í efstu skúffu.
+- Slökkva á öllum rofum við kortaborð neam Pump II
 - Slökkva á talstöð.
 - Tengja landrafmagn og hitablásara.
-- Ganga frá böndum.
-- Setja upp speyhood ef það hefur verið sett niður. Ath að stórseglbóman þarf að vera til hliðar á meðan.
+- Rúllulína framsegls sett föst í klemmu svo seglið dagist ekki út
+- Strekkja á sjálfvindingunni eða skutbandi svo framseglið fari ekki að blakta
 - Binda stórsegl og setja hlífina á.
-- Tryggja landfestar, sjá landfestar
+- Ganga snyrtilega frá öllum böndum.
+- Setja upp speyhood ef það hefur verið sett niður. Ath að stórseglbóman þarf að vera til hliðar á meðan.
+- Binda stórsegl og setja hlífina á
+- Björgunarvesti sett á sinn stað,  í skápa
+- Taka til um borð,  henda rusli í gám við félagsheimilið
+- Skrá ferðina í dagbókina
+- Klósett dæla á að vera á closed
