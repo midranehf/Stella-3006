@@ -9,3 +9,6 @@ Réttir lyftipunktar eru:
 - Aftan: Til móts við vélina, uþb 50 cm framan við drifið. Miðað við kanntinn við dekkið þá er þetta rétt framan við póstinn á rekkverkinu til móts við hvalbakinn. Strappinn má alls ekki fara aftur fyrir vélina því þá lendir hann á drifinu. Einnig má miða við að strappinn sé til móts við hurðina niður.
 
 Best er að hafa dautt á vélinni eða að hafa gírinn í hlutlausu þegar byrjað er að hífa því straumur frá skrúfunni getur dregið strappann til.
+
+## Botnmálun
+Það má ekki mála botnstykkið, sem er framan við kjölinn. Það þýðir að það safnast mikið af gróðri á botnstykkið sem getur truflað hraðamælinn en það verður þá að leysa það á annan hátt t.d. með að kafa.
