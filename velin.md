@@ -1,5 +1,8 @@
 [Til baka á aðalsíðu](README.md)
 ## Vélin
+Vél: Volvo Penta MD 11C serial no. 44806
+
+Drif, S drif:  serial no. PZ NR 1120777B 
 
 ### Kaldræsing
 Stjórnborðsmegin á vélinni er lítill hnappur sem hægt er að ýta inn og þá fer vélin auðveldar í gang þegar hún er köld
