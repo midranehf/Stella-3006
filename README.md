@@ -7,12 +7,15 @@
 3. [Sigling](sigling.md)
 4. [Siglingatæki](siglingataeki.md)
 5. [Inni](inni.md)
+6. [Viðhald](vidhald.md)
 
 ## Gátlistar
 - [Brottför](gatlisti-ut.md)
 - [Koma](gatlisti-inn.md)
 
 ## Dagbók
+- 2023-05-03: Fíber viðgerð, botnmálun og zink. Stálorka.
+- 2023-03-27: Teknir upp spíssar og dísur
 - 2023-02-08: Nýtt framsegl komið um borð
 - 2022-10-20: Flutt yfir í Hafnarfjarðarhöfn
 - 2022-10-06: Skráningu í skipaskrá lokið
