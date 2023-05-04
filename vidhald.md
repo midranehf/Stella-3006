@@ -17,9 +17,7 @@ Botnmálning: Mjúk, vörunúmer YBP153/2.5ANCruiser 250 Dökkblá/Navy 2.5L key
 
 ## Skrokkur
 Í viðgerð 2021 á síðu notuðum við Watertite sparsl frá International.
-Grunnuðum síðu með International gráum yacht primer
-Málning á síðu YHB000/A750 Perfection Snow White B000 sjá data sheet
+Grunnuðum með gráum yacht primer frá International.
+Málning á síðu YHB000/A750 Perfection Snow White B000 sjá data sheet: <a href="https://www.international-yachtpaint.com/s3/documents/TDS/Perfection_eng_A4_20141212.pdf"> Perfection_eng_A4_20141212.pdf </a>
 
-https://www.international-yachtpaint.com/s3/documents/TDS/Perfection_eng_A4_20141212.pdf
-
-Allt keypt í Sérefni 
+International málningavörur keyptar í Sérefni 
