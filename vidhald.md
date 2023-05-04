@@ -12,3 +12,8 @@ Best er að hafa dautt á vélinni eða að hafa gírinn í hlutlausu þegar byr
 
 ## Botnmálun
 Það má ekki mála botnstykkið, sem er framan við kjölinn. Það þýðir að það safnast mikið af gróðri á botnstykkið sem getur truflað hraðamælinn en það verður þá að leysa það á annan hátt t.d. með að kafa.
+
+Botnmálning vörunúmer YBP153/2.5ANCruiser 250 Dökkblá/Navy 2.5L keypt í Sérefni
+
+## Skrokkur
+Málning YHB000/A750 Perfection Snow White B000 keypt í Sérefni
