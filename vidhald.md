@@ -16,4 +16,10 @@ Best er að hafa dautt á vélinni eða að hafa gírinn í hlutlausu þegar byr
 Botnmálning: Mjúk, vörunúmer YBP153/2.5ANCruiser 250 Dökkblá/Navy 2.5L keypt í Sérefni
 
 ## Skrokkur
-Málning á síðu YHB000/A750 Perfection Snow White B000 keypt í Sérefni
+Í viðgerð 2021 á síðu notuðum við Watertite sparsl frá International.
+Grunnuðum síðu með International gráum yacht primer
+Málning á síðu YHB000/A750 Perfection Snow White B000 sjá data sheet
+
+https://www.international-yachtpaint.com/s3/documents/TDS/Perfection_eng_A4_20141212.pdf
+
+Allt keypt í Sérefni 
