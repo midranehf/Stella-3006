@@ -16,9 +16,11 @@ Hæfilegur snúninghraði er innan við 2000 og hámark er 2500. Það verður a
 
 ### Volvo Penta umboð
 
-tengiliður hjá Velti:
+tengiliður hjá Velti:  
 
-Hilmar Skúli HjartarsonAðstoðar verk- og tæknistjóri
-Assitance Workshop forman
-hilmarh@veltir.is
-Sími +354 510 9100Mobile +354 8978579www.veltir.is
+Hilmar Skúli HjartarsonAðstoðar verk- og tæknistjóri  
+Assitance Workshop forman  
+hilmarh@veltir.is  
+Sími +354 510 9100  
+Mobile +354 8978579  
+www.veltir.is  
