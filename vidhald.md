@@ -14,6 +14,8 @@ Best er að hafa dautt á vélinni eða að hafa gírinn í hlutlausu þegar byr
 
 Botnmálning: Mjúk, vörunúmer YBP153/2.5ANCruiser 250 Dökkblá/Navy 2.5L keypt í Sérefni
 
+Árið 2023 var botninn hinsvegar málaður með sömu málningu nema í litnum Blue
+
 ## Skrokkur
 Í viðgerð 2021 á síðu notuðum við Watertite sparsl frá International.
 Grunnuðum með gráum yacht primer frá International.
