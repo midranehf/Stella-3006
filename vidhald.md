@@ -16,6 +16,8 @@ Botnmálning: Mjúk, vörunúmer YBP153/2.5ANCruiser 250 Dökkblá/Navy 2.5L key
 
 Árið 2023 var botninn hinsvegar málaður með sömu málningu nema í litnum Blue
 
+Til að draga úr gróðurmyndun á botnstykki má prófa að bera á Foulfree Transducer Coating, Part #FF15K frá Airmar (Propspeed) https://www.airmar-emea.com/Catalog/Parts-Accessories/Anti-Foul-Coating/FF15K, þetta virðist ekki fáanlegt hér á landi en er hægt að panta á netinu, t.d. Amazon.
+
 ## Skrokkur
 Í viðgerð 2021 á síðu notuðum við Watertite sparsl frá International.
 Grunnuðum með gráum yacht primer frá International.
