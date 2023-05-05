@@ -4,7 +4,6 @@
 
 Það eiga að vera merktir lyftipunktar á síðunni en ef merkingarnar eru ekki sjáanlegar má miða við eftirfarandi:
 
-Réttir lyftipunktar eru:
 - Framan: Rétt framan við kjölinn, aftan við botnstykkið. Miðað við kanntinn við dekkið þá er þetta rétt aftan við polla (cleat) til móts við mastrið en framan við póstinn á rekkverkinu. Alls ekki að fara framan við pollann því þá lendir strappinn á botnstykkinu.
 - Aftan: Til móts við vélina, uþb 50 cm framan við drifið. Miðað við kanntinn við dekkið þá er þetta rétt framan við póstinn á rekkverkinu til móts við hvalbakinn. Strappinn má alls ekki fara aftur fyrir vélina því þá lendir hann á drifinu. Einnig má miða við að strappinn sé til móts við hurðina niður.
 
@@ -21,3 +20,10 @@ Grunnuðum með gráum yacht primer frá International.
 Málning á síðu YHB000/A750 Perfection Snow White B000 sjá data sheet: <a href="https://www.international-yachtpaint.com/s3/documents/TDS/Perfection_eng_A4_20141212.pdf"> Perfection_eng_A4_20141212.pdf </a>
 
 International málningavörur keyptar í Sérefni 
+
+## Zink
+Það eru tvö zink á botni. Annað er hringur á drifinu og hitt er kubbur undir stýrinu.
+
+Zink á drifi er hringur í þremur hlutum. Mæld stærð 16mm breiður, 12mm þykkur og ytra ummál 307mm. Fæst hjá Reki ehf. Vörunúmer þeirra er VP023. Fæst einnig hjá Velti, umboðsaðila Volvo Penta. Framleiðandanúmer er 3858399 og fæst þetta einnig víða á netinu.
+
+Zink undir stýri fæst hjá Go on ehf. Stærðin er 40 x 165 500 gr. vnr zink hz-5
