@@ -26,4 +26,4 @@ International málningavörur keyptar í Sérefni
 
 Zink á drifi er hringur í þremur hlutum. Mæld stærð 16mm breiður, 12mm þykkur og ytra ummál 307mm. Fæst hjá Reki ehf. Vörunúmer þeirra er VP023. Fæst einnig hjá Velti, umboðsaðila Volvo Penta. Framleiðandanúmer er 3858399 og fæst þetta einnig víða á netinu.
 
-Zink undir stýri fæst hjá Go on ehf. Stærðin er 40 x 165 500 gr. vnr zink hz-5
+Zink undir stýri fæst hjá Go-on ehf. Stærðin er 40 x 165 500 gr. vnr ALL-077451 , lýsing Zink HZ-5 500 gr.
