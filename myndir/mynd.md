@@ -1,3 +1,3 @@
 # Myndaskrá
 
-![rafgeymir](myndir/varta-e39-agm.jpg)
+![rafgeymir](varta-e39-agm.jpg)
