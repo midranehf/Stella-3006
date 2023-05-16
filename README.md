@@ -14,6 +14,8 @@
 - [Koma](gatlisti-inn.md)
 
 ## Dagbók
+- 2023-05-14: Skipt um kapal í vindmælir og rafmagnskapal frá geymi.
+- 2023-05-13: Skipt um rafgeymir.
 - 2023-05-03: Fíber viðgerð, botnmálun og zink. Stálorka.
 - 2023-03-27: Teknir upp spíssar og dísur
 - 2023-02-08: Nýtt framsegl komið um borð
