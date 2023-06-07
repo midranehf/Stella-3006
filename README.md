@@ -14,6 +14,9 @@
 - [Koma](gatlisti-inn.md)
 
 ## Dagbók
+- 2023-06-07: Siglt til Reykjavíkur.
+- 2023-06-06: Skipt um blöðkuhjól í vatnsdælu.
+- 2023-05-31: Haffæri gefið út fyrir árið.
 - 2023-05-14: Skipt um kapal í vindmælir og rafmagnskapal frá geymi.
 - 2023-05-13: Skipt um rafgeymir.
 - 2023-05-03: Fíber viðgerð, botnmálun og zink. Stálorka.
