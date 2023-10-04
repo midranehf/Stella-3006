@@ -1,6 +1,8 @@
 [Til baka á aðalsíðu](README.md)
 
 # Rásmerki
+|===
+
 |  Tími í start |  Fánar uppi | Hljóðmerki  | 
 |---|---|---|
 |  5 mín | <img src="orange.jpg" alt="Warning" style="height: 50px; width:50px;"/>  | stutt flaut |
@@ -8,6 +10,7 @@
 |  1 mín | <img src="orange.jpg" alt="Warning" style="height: 50px; width:50px;"/>  | langt flaut  |
 |  0 mín |   | stutt flaut |
 
+|===
 # Recall
 |  Gerð |  Fánar uppi | Hljóðmerki  | Skýring|
 |---|---|---|---|
