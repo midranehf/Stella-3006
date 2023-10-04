@@ -6,3 +6,5 @@ Ef siglt er út úr kvínni við Hörpu með sterkan hliðarvind úr vestri þá
 
 #### Siglt í stæði
 Öruggast er að snúa skútunni utan við flotbryggjuna og bakka rólega alla leið inn í stæðið. Sérstaklega ef það er hliðarvindur úr vestri sem getur hrakið hana upp í hafnargarðinn. Ef það er mikill vindur þá er öruggara að setja mann í land t.d. á enda annarrar flotbryggjunnar svo að hann geti tekið á móti skútunni í stæðinu.
+
+## [Keppni](keppni.md)
