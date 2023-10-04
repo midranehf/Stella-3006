@@ -1,3 +1,5 @@
+[Til baka á aðalsíðu](README.md)
+
 # Rásmerki
 |  Tími í start |  Fánar uppi | Hljóðmerki  | 
 |---|---|---|
