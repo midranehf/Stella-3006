@@ -1,4 +1,6 @@
 # Viðhald
+[Verkefnalisti á Google Docs](https://docs.google.com/spreadsheets/d/14tE13ABSfP4S28bQu4hFaJpmoj7Sj-FZezH7p6IH-1U/edit?usp=sharing)
+
 ## Hífing
 > *ATHUGIÐ* Gæta þarf þess að fremri strappi fari ekki á botnstykkið og að aftari strappi fari ekki á drifið eða í skrúfuna.
 
