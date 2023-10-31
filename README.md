@@ -14,7 +14,7 @@
 - [Koma](gatlisti-inn.md)
 
 ## Dagbók
-- 2023-10-22: Silgt til Hafnarfjarðar
+- 2023-10-22: Siglt til Hafnarfjarðar
 - 2023-06-07: Siglt til Reykjavíkur.
 - 2023-06-06: Skipt um blöðkuhjól í vatnsdælu.
 - 2023-05-31: Haffæri gefið út fyrir árið.
