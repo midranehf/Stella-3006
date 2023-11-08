@@ -1,3 +1,5 @@
+[Til baka á aðalsíðu](README.md)
+
 # Vaktaplan
 
 Eftirlitsvakt hefst frá og með laugardegi og lýkur á föstudeginum. Miðað er við að eftirlit sé í byrjun vikunnar og aðrir dagar til vara.
@@ -21,3 +23,6 @@ Við eftirlit er gott að hafa eftirfarandi í huga.
 - Er hitaplásarinn á.
 - Eru landfestar traustar.
 - Er eitthvað laust sem flaksar.
+- Kvitta í dagbók.
+
+Ekki er vera ef sendur er tölupóstur á hópinn um stöðuna. Ef eitthvað aðkallandi er að og það vantar aðstoð þá hringið í einhvern í hópnum.
