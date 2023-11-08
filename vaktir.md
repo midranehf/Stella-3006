@@ -10,8 +10,8 @@ Eftirlitsvakt hefst frá og með laugardegi og lýkur á föstudeginum. Miðað 
 |Egill     | 47 |18.nóv|24.nóv|
 |Georg     | 48 |25.nóv|01.nóv|
 |Ingþór    | 49 |02.nóv|08.des|
-|Kári      | 50 |09.des|15.des|
-|Kolbeinn  | 51 |16.des|22.des|
+|Kolbeinn  | 50 |09.des|15.des|
+|Kári      | 51 |16.des|22.des|
 |Kristján  | 52 |23.des|05.des|
 |Lúðvík    | 01 |06.des|12.jan|
 |Lukaz     | 02 |13.jan|17.jan|
@@ -25,4 +25,4 @@ Við eftirlit er gott að hafa eftirfarandi í huga.
 - Er eitthvað laust sem flaksar.
 - Kvitta í dagbók.
 
-Ekki er vera ef sendur er tölupóstur á hópinn um stöðuna. Ef eitthvað aðkallandi er að og það vantar aðstoð þá hringið í einhvern í hópnum.
+Ekki er verra að senda tölupóst á hópinn um stöðuna. Ef eitthvað aðkallandi er að og það vantar aðstoð þá hringið í einhvern í hópnum.
