@@ -8,6 +8,7 @@
 4. [Siglingatæki](siglingataeki.md)
 5. [Inni](inni.md)
 6. [Viðhald](vidhald.md)
+7. [Vaktir](vaktir.md)
 
 ## Gátlistar
 - [Brottför](gatlisti-ut.md)
