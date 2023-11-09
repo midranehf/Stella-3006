@@ -12,8 +12,8 @@ Eftirlitsvakt hefst frá og með laugardegi og lýkur á föstudeginum. Miðað 
 |Ingþór    | 49 |02.nóv|08.des|
 |Kolbeinn  | 50 |09.des|15.des|
 |Kári      | 51 |16.des|22.des|
-|Kristján  | 52 |23.des|05jan|
-|Lúðvík    | 01 |jan|12.jan|
+|Kristján  | 52 |23jan|05.jan|
+|Lúðvík    | 06.jan|12.jan|
 |Lukaz     | 02 |13.jan|17.jan|
 |Jón Hörður| 03 |20.jan|26.jan|
 
