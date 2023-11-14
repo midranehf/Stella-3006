@@ -28,6 +28,7 @@
 - 2022-10-06: Skráningu í skipaskrá lokið
 - 2022-09-22: Sett upp handbókarsíða
 - 2022-09-20: Þinglýsingu lokið
+- 2021-06-02: Sjósett
 
 ## Viðhald á þessari handbók
 Þessi handbók er uppsett sem GitHub repository https://github.com/midranehf/Stella-3006 sem Georg heldur utan um og notast við Pages. Efni er skrifað með [MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Þeir sem vilja taka þátt í að viðhalda handbókinni þurfa að hafa GitHub Account og senda kennið til Georgs sem bætir því við sem Collaborator.
