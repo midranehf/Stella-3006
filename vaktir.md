@@ -21,7 +21,7 @@ Við eftirlit er gott að hafa eftirfarandi í huga.
 
 - Hefur safnast vatn í kjölinn.
 - Er hitaplásarinn á.
-- Eru landfestar traustar.
+- Eru landfestar traustar. [Staðsetning landfesta](sigling.md#Landfestar)
 - Er eitthvað laust sem flaksar.
 - Kvitta í dagbók.
 
