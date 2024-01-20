@@ -6,16 +6,16 @@ Eftirlitsvakt hefst frá og með laugardegi og lýkur á föstudeginum. Miðað 
 
 |Umsjón|Vika|Frá laugardegi|Til föstudags|
 |---|---|---|---|
-|Björgvin  | 46 |11.nóv|17.nóv|
-|Egill     | 47 |18.nóv|24.nóv|
-|Georg     | 48 |25.nóv|01.des|
-|Ingþór    | 49 |02.des|08.des|
-|Kolbeinn  | 50 |09.des|15.des|
-|Kári      | 51 |16.des|22.des|
-|Kristján  | 52 |23.des|29.des|
-|Lúðvík    | 01 |30.des|05.jan|
-|Lukaz     | 02 |06.jan|12.jan|
-|Jón Hörður| 03 |13.jan|19.jan|
+|Björgvin  | 04 |20.jan|26.jan|
+|Egill     | 05 |27.jan|02.feb|
+|Georg     | 06 |03.feb|09.feb|
+|Ingþór    | 07 |10.feb|16.feb|
+|Jón Hörður| 08 |17.feb|23.feb|
+|Kolbeinn  | 09 |24.feb|01.mar|
+|Kári      | 10 |02.mar|08.mar|
+|Kristján  | 11 |09.mar|15.mar|
+|Lúðvík    | 12 |16.mar|22.mar|
+|Lukaz     | 13 |23.mar|29.mar|
 
 Við eftirlit er gott að hafa eftirfarandi í huga.
 
