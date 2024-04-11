@@ -4,18 +4,20 @@
 
 Eftirlitsvakt hefst frá og með laugardegi og lýkur á föstudeginum. Miðað er við að eftirlit sé í byrjun vikunnar og aðrir dagar til vara.
 
+Við fylgjum eftirfarandi plani þar til við færum okkur yfir að Hörpunni.
+
 |Umsjón|Vika|Frá laugardegi|Til föstudags|
 |---|---|---|---|
-|Björgvin  | 04 |20.jan|26.jan|
-|Egill     | 05 |27.jan|02.feb|
-|Georg     | 06 |03.feb|09.feb|
-|Ingþór    | 07 |10.feb|16.feb|
-|Jón Hörður| 08 |17.feb|23.feb|
-|Kolbeinn  | 09 |24.feb|01.mar|
-|Kári      | 10 |02.mar|08.mar|
-|Kristján  | 11 |09.mar|15.mar|
-|Lúðvík    | 12 |16.mar|22.mar|
-|Lukaz     | 13 |23.mar|29.mar|
+|Björgvin  | 16 |13.apr|19.apr|
+|Egill     | 17 |20.apr|26.apr|
+|Georg     | 18 |27.apr|03.maí|
+|Ingþór    | 19 |04.maí|10.maí|
+|Jón Hörður| 20 |11.maí|17.maí|
+|Kolbeinn  | 21 |18.maí|24.maí|
+|Kári      | 22 |25.maí|31.maí|
+|Kristján  | 23 |01.jún|07.jún|
+|Lúðvík    | 24 |08.jún|14.jún|
+|Lukaz     | 25 |15.jún|21.jún|
 
 Við eftirlit er gott að hafa eftirfarandi í huga.
 
