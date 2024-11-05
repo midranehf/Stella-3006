@@ -2,22 +2,20 @@
 
 # Vaktaplan
 
-Eftirlitsvakt hefst frá og með laugardegi og lýkur á föstudeginum. Miðað er við að eftirlit sé í byrjun vikunnar og aðrir dagar til vara.
+Eftirlitsvakt hefst frá og með mánudegi og lýkur á sunnudeginum. Gott er að fylgjast með veðri og líta við ef það eru slæm veður.
 
-Við fylgjum eftirfarandi plani þar til við færum okkur yfir að Hörpunni.
-
-|Umsjón|Vika|Frá laugardegi|Til föstudags|
+|Umsjón|Vika|Frá mánudegi|Til sunnudags|
 |---|---|---|---|
-|Björgvin  | 16 |13.apr|19.apr|
-|Egill     | 17 |20.apr|26.apr|
-|Georg     | 18 |27.apr|03.maí|
-|Ingþór    | 19 |04.maí|10.maí|
-|Jón Hörður| 20 |11.maí|17.maí|
-|Kolbeinn  | 21 |18.maí|24.maí|
-|Kári      | 22 |25.maí|31.maí|
-|Kristján  | 23 |01.jún|07.jún|
-|Lúðvík    | 24 |08.jún|14.jún|
-|Lukaz     | 25 |15.jún|21.jún|
+|Egill     | 46 |11.nóv|17.nóv|
+|Georg     | 47 |18.nóv|24.nóv|
+|Ingþór    | 48 |25.nóv|01.des|
+|Jón Hörður| 49 |02.des|08.des|
+|Kolbeinn  | 50 |09.des|15.des|
+|Kristján  | 51 |16.des|22.des|
+|Lúðvík    | 52 |23.des|29.des|
+|Lukaz     | 01 |30.des|05.des|
+|Óskar     | 02 |06.jan|12.jan|
+|Steindór  | 03 |13.jan|19.jan|
 
 Við eftirlit er gott að hafa eftirfarandi í huga.
 
