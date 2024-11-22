@@ -15,6 +15,16 @@
 - [Koma](gatlisti-inn.md)
 
 ## Dagbók
+- 2024-11-22: Vél tekin upp, cylindrar, stimplar, ventlar ofl.
+- 2024-10-09: Siglt til Hafnarfjarðar
+- 2024-07-25: Nýr félagi Gunnar í stað Björgvins
+- 2024-05-29: Gert við startara
+- 2024-05-28: Haffæri gefið út
+- 2024-05-26: Nýr félagi Steindór í stað Kára.
+- 2024-05-18: Siglt til Reykjavíkur
+- 2024-04-29: Gert við kælidælu, rafmagns.
+- 2024-04-21: Nýr lazy jack
+- 2023-12-20: Skipt um barka í gír og liðkað upp.
 - 2023-10-22: Siglt til Hafnarfjarðar
 - 2023-06-07: Siglt til Reykjavíkur.
 - 2023-06-06: Skipt um blöðkuhjól í vatnsdælu.
