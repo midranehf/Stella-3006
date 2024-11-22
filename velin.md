@@ -13,6 +13,7 @@ Véling gengur fyrir dísel olíu og er leyfilegt að nota litaða olíu. Það 
 
 ### Keyrsla á vél
 Hæfilegur snúninghraði er innan við 2000 og hámark er 2500. Það verður að vera svissað á startarann þegar keyrt er til að kælingin virki.
+Vatnsloki opnar við 60°C. Æskilegur keyrsluhiti innan við 88°C, ekki fara yfir 90°C.
 
 ### Volvo Penta umboð
 
