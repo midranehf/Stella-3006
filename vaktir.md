@@ -10,11 +10,11 @@ Eftirlitsvakt hefst frá og með mánudegi og lýkur á sunnudeginum. Gott er a�
 |Steindór  | 03 |13.jan|19.jan|
 |Egill     | 04 |20.jan|26.jan|
 |Georg     | 05 |27.jan|02.feb|
-|Ingþór    | 06 |03.jan|09.feb|
+|Ingþór    | 06 |03.feb|09.feb|
 |Jón Hörður| 07 |10.feb|16.feb|
 |Kolbeinn  | 08 |17.feb|23.feb|
-|Kristján  | 09 |24.feb|02.feb|
-|Lúðvík    | 10 |03.feb|09.mar|
+|Kristján  | 09 |24.feb|02.mar|
+|Lúðvík    | 10 |03.mar|09.mar|
 |Lukaz     | 11 |10.mar|16.mar|
 |Óskar     | 12 |17.mar|23.mar|
 |Steindór  | 13 |24.mar|30.mar|
