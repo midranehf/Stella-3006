@@ -21,6 +21,7 @@ Eftirlitsvakt hefst frá og með mánudegi og lýkur á sunnudeginum. Gott er a�
 
 Við eftirlit er gott að hafa eftirfarandi í huga.
 
+- Starta vél og keyra í ca. 10-15 mín.
 - Hefur safnast vatn í kjölinn.
 - Er hitaplásarinn á.
 - Eru landfestar traustar. [Staðsetning landfesta](sigling.md#Landfestar)
