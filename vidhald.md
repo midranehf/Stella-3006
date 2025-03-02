@@ -44,7 +44,9 @@ Zink undir stýri fæst hjá Go-on ehf. Stærðin er 40 x 165 500 gr. vnr ALL-07
 -	Fylgjast með sjódælunni og flæði á sjó í gegnum sjósíuna (þegar hún er komin).
 
 ## Haffæris
-Eftirfarandi kröfur eru gerðar til haffæris sjá nánar https://docs.google.com/spreadsheets/d/1ZWG6wEMggf0RIHK_22jYZlOn6dC9eZFgdeqUF5fZk3E/edit?usp=sharing
+Eftirfarandi kröfur eru gerðar til haffæris til strandsiglinga fyrir 10-15 metra skemmtibát.
+
+Sjá nánar <a href="https://docs.google.com/spreadsheets/d/1ZWG6wEMggf0RIHK_22jYZlOn6dC9eZFgdeqUF5fZk3E/edit?usp=sharing"</a>
 
 REGLUGERÐ 377/2007 |  um björgunar- og öryggisbúnað skemmtibáta. 
 -- | --
