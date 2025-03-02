@@ -43,3 +43,40 @@ Zink undir stýri fæst hjá Go-on ehf. Stærðin er 40 x 165 500 gr. vnr ALL-07
 -	Skipta um smurolíu að hausti svo hún standi ekki á vélinni.
 -	Fylgjast með sjódælunni og flæði á sjó í gegnum sjósíuna (þegar hún er komin).
 
+## Haffæris
+Eftirfarandi kröfur eru gerðar til haffæris sjá nánar https://docs.google.com/spreadsheets/d/1ZWG6wEMggf0RIHK_22jYZlOn6dC9eZFgdeqUF5fZk3E/edit?usp=sharing
+
+REGLUGERÐ 377/2007 |  um björgunar- og öryggisbúnað skemmtibáta. 
+-- | --
+Skoðunarmaður | Opinber 5 hvert ár, næst   03-2027
+Vökvaáttaviti | 1
+Áttaviti til   miðunar | 1
+Björgunarvesti | EN 395 fyrir hvern   farþega 6 stk.
+Björgunarhringur/skeifa | 1
+Fallhlífaflugeldar | 4 stykki
+Handblys | 4 stykki
+Björgunarbátur | A
+VHF talstöð   (metrabylgjustöð) | X
+Útvarp   (viðtæki vegna veðurspár) | 1
+EPIRB   neyðarbauja | 1
+Lyfjakassi | 1C
+Sjókort | X
+Sjónauki | 1
+Slökkvitæki | 2 stykki 2kg
+Vatnshelt   vasaljós | 1
+Þokulúður | 1
+Þjóðfáni | 1
+Siglingaljós | X
+Dagmerki | Keila og kúla
+Radarspegill | 1
+Krókstjaki | 1
+Öryggislitur | X
+Akkeri | 25 kg
+
+
+* A: Búnaður skal vera fyrir alla sem um borð eru   hverju sinni. (Equipment for every person on board).
+* A*, 1*: Búnaðar eingöngu krafist í þeim skemmtibátum   sem ætlaðir eru til útleigu í atvinnuskyni. (Equipment required only for   rental craft).
+* X: Almenn krafa um að fullnægjandi búnaður sé til   staðar. (General requirement on satisfactory carriage of equipment). 
+* 1C Merkir lyfjakista í flokki C samkvæmt reglugerð um   lyf og læknisáhöld um borð í íslenskum skipum. (First aid bag of type C   according to reglulations on medicine and medical care on Icelandic crafts). 
+
+
