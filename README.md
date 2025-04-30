@@ -15,6 +15,9 @@
 - [Koma](gatlisti-inn.md)
 
 ## Dagbók
+- 2025-04-28: Endurnýjaður startari, nýi var gallaður.
+- 2025-03-12: Nýr félagi Hafsteinn í stað Kolbeins.
+- 2025-03-08: Skoðun á björgunarbát og ný blys.
 - 2024-11-22: Vél tekin upp, cylindrar, stimplar, ventlar ofl.
 - 2024-10-09: Siglt til Hafnarfjarðar
 - 2024-07-25: Nýr félagi Gunnar í stað Björgvins
