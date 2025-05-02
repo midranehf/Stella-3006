@@ -15,6 +15,8 @@
 - [Koma](gatlisti-inn.md)
 
 ## Dagbók
+- 2025-05-01: Botnmálað og zink endurnýjað.
+- 2025-04-29: Endurnýjað haffæri gefið út.
 - 2025-04-28: Endurnýjaður startari, nýi var gallaður.
 - 2025-03-12: Nýr félagi Hafsteinn í stað Kolbeins.
 - 2025-03-08: Skoðun á björgunarbát og ný blys.
