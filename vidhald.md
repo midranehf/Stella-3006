@@ -13,7 +13,7 @@
 - Framan: Rétt framan við kjölinn, aftan við botnstykkið. Miðað við kanntinn við dekkið þá er þetta rétt aftan við polla (cleat) til móts við mastrið en framan við póstinn á rekkverkinu. Alls ekki að fara framan við pollann því þá lendir strappinn á botnstykkinu.
 - Aftan: Til móts við vélina, uþb 50 cm framan við drifið. Miðað við kanntinn við dekkið þá er þetta rétt framan við póstinn á rekkverkinu til móts við hvalbakinn. Strappinn má alls ekki fara aftur fyrir vélina því þá lendir hann á drifinu. Einnig má miða við að strappinn sé til móts við hurðina niður.
 
-Ef híft er upp á þjónustustæðin neðan við Kænuna í Hafnarfirði þá þarf það að gerast með stórum krana sem getur teygt sig rúma 20 metra með skútuna. Kraninn þarf að standa uppi á malbikinu og teygja sig yfir trébryggjuna. Frá kranahúsinu að bryggjukannti eru um 12 metrar. Bæði þess vegna og vegna þess hve grunnt er við olíubryggjuna þá verður þarf þetta að gerast innan 2 tíma frá flóði. 2025 var fenginn 120tn krani frá DS lausnum og hann mátti ekki vera minni en dugði vel.
+Ef híft er upp á þjónustustæðin neðan við Kænuna í Hafnarfirði þá þarf það að gerast með stórum krana sem getur teygt sig rúma 20 metra með skútuna. Kraninn þarf að standa uppi á malbikinu og teygja sig yfir trébryggjuna. Frá kranahúsinu að bryggjukannti eru um 12 metrar. Bæði þess vegna og vegna þess hve grunnt er við olíubryggjuna þá þarf þetta að gerast innan 2 tíma frá flóði. 2025 var fenginn 120tn krani frá DS lausnum og hann mátti ekki vera minni en dugði vel.
 
 Best er að hafa dautt á vélinni eða að hafa gírinn í hlutlausu þegar byrjað er að hífa því straumur frá skrúfunni getur dregið strappann til.
 
