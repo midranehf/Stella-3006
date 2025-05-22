@@ -15,6 +15,7 @@
 - [Koma](gatlisti-inn.md)
 
 ## Dagbók
+- 2025-05-18: Siglt til Reykjavíkur.
 - 2025-05-01: Botnmálað og zink endurnýjað.
 - 2025-04-29: Endurnýjað haffæri gefið út.
 - 2025-04-28: Endurnýjaður startari, nýi var gallaður.
