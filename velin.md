@@ -4,6 +4,12 @@ Vél: Volvo Penta MD 11C serial no. 44806
 
 Drif, S drif:  serial no. PZ NR 1120777B 
 
+- 23 hestöfl (hp), jafngildir 17 kW.
+- 2 stimplar, 4 gengis
+- Gefin upp fyrir max 2500 rpm
+
+Kæling er með sjóinntak inn á varmaskipti fyrir lokað kælikerfi sem er með fersku frostvörðu kælivatni. Dælan á kælingunni er mekanisk en dælan á sjóinntakinu er rafdrifin og því þarf alltaf að vera svissað á þegar vélin er í gangi.
+
 ### Kaldræsing
 Stjórnborðsmegin á vélinni er lítill hnappur sem hægt er að ýta inn og þá fer vélin auðveldar í gang þegar hún er köld
 ![Hnappur fyrir kaldræsingu](kaldstartsm.jpg)
