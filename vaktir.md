@@ -6,7 +6,7 @@ Eftirlitsvakt hefst frá og með mánudegi og lýkur á sunnudeginum. Gott er a�
 
 |Umsjón|Vika|Frá mánudegi|Til sunnudags|
 |---|---|---|---|
-|Egill     | 52 |22.des|28.des|
+|Georg     | 52 |22.des|28.des|
 |Georg     | 01 |29.des|04.jan|
 |Hafsteinn | 02 |05.jan|11.jan|
 |Ingþór    | 03 |12.jan|18.jan|
@@ -17,7 +17,7 @@ Eftirlitsvakt hefst frá og með mánudegi og lýkur á sunnudeginum. Gott er a�
 |Óskar     | 08 |16.feb|22.feb|
 |Steindór  | 09 |23.feb|01.mar|
 |Egill     | 10 |02.mar|08.mar|
-|Georg     | 11 |09.mar|15.mar|
+|Egill     | 11 |09.mar|15.mar|
 |Hafsteinn | 12 |16.mar|22.mar|
 |Ingþór    | 13 |23.mar|29.mar|
 |Jón Hörður| 14 |30.mar|05.apr|
