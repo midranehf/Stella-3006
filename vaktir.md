@@ -6,18 +6,26 @@ Eftirlitsvakt hefst frá og með mánudegi og lýkur á sunnudeginum. Gott er a�
 
 |Umsjón|Vika|Frá mánudegi|Til sunnudags|
 |---|---|---|---|
-|Óskar     | 02 |06.jan|12.jan|
-|Steindór  | 03 |13.jan|19.jan|
-|Egill     | 04 |20.jan|26.jan|
-|Georg     | 05 |27.jan|02.feb|
-|Ingþór    | 06 |03.feb|09.feb|
-|Jón Hörður| 07 |10.feb|16.feb|
-|Kolbeinn  | 08 |17.feb|23.feb|
-|Kristján  | 09 |24.feb|02.mar|
-|Lúðvík    | 10 |03.mar|09.mar|
-|Lukaz     | 11 |10.mar|16.mar|
-|Óskar     | 12 |17.mar|23.mar|
-|Steindór  | 13 |24.mar|30.mar|
+|Egill     | 52 |22.des|28.des|
+|Georg     | 01 |29.des|04.jan|
+|Hafsteinn | 02 |05.jan|11.jan|
+|Ingþór    | 03 |12.jan|18.jan|
+|Jón Hörður| 04 |19.jan|25.jan|
+|Kristján  | 05 |26.jan|01.feb|
+|Lúðvík    | 06 |02.feb|08.feb|
+|Lukaz     | 07 |09.feb|15.feb|
+|Óskar     | 08 |16.feb|22.feb|
+|Steindór  | 09 |23.feb|01.mar|
+|Egill     | 10 |02.mar|08.mar|
+|Georg     | 11 |09.mar|15.mar|
+|Hafsteinn | 12 |16.mar|22.mar|
+|Ingþór    | 13 |23.mar|29.mar|
+|Jón Hörður| 14 |30.mar|05.apr|
+|Kristján  | 15 |06.apr|12.apr|
+|Lúðvík    | 16 |13.apr|19.apr|
+|Lukaz     | 17 |20.apr|26.apr|
+|Óskar     | 18 |27.apr|03.maí|
+|Steindór  | 19 |04.maí|10.maí|
 
 Við eftirlit er gott að hafa eftirfarandi í huga.
 
