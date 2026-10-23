@@ -16,6 +16,9 @@
 
 ## Dagbók
 - 2026-10-06: Siglt til Hafnarfjarðar
+- 2026-05-30: Siglt til Reykjavíkur.
+- 2026-05-26: Sett bugspjót og akkerisvinda
+- 2025-11-02: Siglt til Hafnarfjarðar
 - 2025-05-18: Siglt til Reykjavíkur.
 - 2025-05-01: Botnmálað og zink endurnýjað.
 - 2025-04-29: Endurnýjað haffæri gefið út.
