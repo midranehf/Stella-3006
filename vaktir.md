@@ -4,28 +4,38 @@
 
 Eftirlitsvakt hefst frá og með mánudegi og lýkur á sunnudeginum. Gott er að fylgjast með veðri og líta við ef það eru slæm veður.
 
-|Umsjón|Vika|Frá mánudegi|Til sunnudags|
-|---|---|---|---|
-|Georg     | 52 |22.des|28.des|
-|Georg     | 01 |29.des|04.jan|
-|Hafsteinn | 02 |05.jan|11.jan|
-|Ingþór    | 03 |12.jan|18.jan|
-|Jón Hörður| 04 |19.jan|25.jan|
-|Kristján  | 05 |26.jan|01.feb|
-|Lúðvík    | 06 |02.feb|08.feb|
-|Lukaz     | 07 |09.feb|15.feb|
-|Óskar     | 08 |16.feb|22.feb|
-|Steindór  | 09 |23.feb|01.mar|
-|Egill     | 10 |02.mar|08.mar|
-|Egill     | 11 |09.mar|15.mar|
-|Hafsteinn | 12 |16.mar|22.mar|
-|Ingþór    | 13 |23.mar|29.mar|
-|Jón Hörður| 14 |30.mar|05.apr|
-|Kristján  | 15 |06.apr|12.apr|
-|Lúðvík    | 16 |13.apr|19.apr|
-|Lukaz     | 17 |20.apr|26.apr|
-|Óskar     | 18 |27.apr|03.maí|
-|Steindór  | 19 |04.maí|10.maí|
+| Umsjón | Vika | Frá mánudegi | Til sunnudags |
+|---|---:|---|---|
+| Egill | 44 | 26.okt | 01.nóv |
+| Georg | 45 | 02.nóv | 08.nóv |
+| Gunnar | 46 | 09.nóv | 15.nóv |
+| Hafsteinn | 47 | 16.nóv | 22.nóv |
+| Ingþór | 48 | 23.nóv | 29.nóv |
+| Jón Hörður | 49 | 30.nóv | 06.des |
+| Kristján | 50 | 07.des | 13.des |
+| Lúðvík | 51 | 14.des | 20.des |
+| Lúkaz | 52 | 21.des | 27.des |
+| Steindór | 53 | 28.des | 03.jan |
+| Egill | 01 | 04.jan | 10.jan |
+| Georg | 02 | 11.jan | 17.jan |
+| Gunnar | 03 | 18.jan | 24.jan |
+| Hafsteinn | 04 | 25.jan | 31.jan |
+| Ingþór | 05 | 01.feb | 07.feb |
+| Jón Hörður | 06 | 08.feb | 14.feb |
+| Kristján | 07 | 15.feb | 21.feb |
+| Lúðvík | 08 | 22.feb | 28.feb |
+| Lúkaz | 09 | 01.mar | 07.mar |
+| Steindór | 10 | 08.mar | 14.mar |
+| Egill | 11 | 15.mar | 21.mar |
+| Georg | 12 | 22.mar | 28.mar |
+| Gunnar | 13 | 29.mar | 04.apr |
+| Hafsteinn | 14 | 05.apr | 11.apr |
+| Ingþór | 15 | 12.apr | 18.apr |
+| Jón Hörður | 16 | 19.apr | 25.apr |
+| Kristján | 17 | 26.apr | 02.maí |
+| Lúðvík | 18 | 03.maí | 09.maí |
+| Lúkaz | 19 | 10.maí | 16.maí |
+| Steindór | 20 | 17.maí | 23.maí |
 
 Við eftirlit er gott að hafa eftirfarandi í huga.
 
